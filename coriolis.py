@@ -1,4 +1,7 @@
 import numpy as np
+print("holi")
+print("ni hao")
+print("good morning class")
 
 def aceleracion_coriolis(omega, v):
     """
